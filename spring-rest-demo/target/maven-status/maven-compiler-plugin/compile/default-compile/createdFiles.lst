@@ -1,0 +1,8 @@
+com\javalearning\springdemo\config\MySpringMvcDispatcherServletInitializer.class
+com\javalearning\springdemo\rest\StudentRestController.class
+com\javalearning\springdemo\entity\Student.class
+com\javalearning\springdemo\config\DemoAppConfig.class
+com\javalearning\springdemo\rest\DemoRestController.class
+com\javalearning\springdemo\rest\StudentRestExceptionHandler.class
+com\javalearning\springdemo\rest\StudentErrorResponse.class
+com\javalearning\springdemo\rest\StudentNotFoundException.class
